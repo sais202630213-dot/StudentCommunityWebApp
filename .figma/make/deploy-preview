@@ -3,7 +3,3 @@ set -euo pipefail
 # Build in development mode to emit sourcemaps.
 pnpm run build --mode development
 figma make deploy-preview --build-dir dist
-
-git add .github/workflows/deploy.yml vite.config.ts
-git commit -m "Add GitHub Pages deployment"
-git push
