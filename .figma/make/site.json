@@ -1,0 +1,10 @@
+{
+  "description": "A community platform for Seoul AI High School students, facilitating discussions, project sharing, and collaboration with a user-friendly interface.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
