@@ -44,17 +44,15 @@
 
 📂 프로젝트 구조
 
-text
 StudentCommunityWebApp/
-├── .github/
-│   └── workflows/
-│       └── webpack.yml
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── ...
-├── public/
-├── package.json
-├── pnpm-lock.yaml
-├── vite.config.ts
-└── README.md
+.github/
+workflows/
+webpack.yml
+src/
+components/
+pages/
+public/
+package.json
+pnpm-lock.yaml
+vite.config.ts
+README.md
